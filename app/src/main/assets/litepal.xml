@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="try_coolWeather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.trycoolweather.db.Province" />
+        <mapping class="com.example.trycoolweather.db.City" />
+        <mapping class="com.example.trycoolweather.db.County" />
+    </list>
+
+</litepal>
